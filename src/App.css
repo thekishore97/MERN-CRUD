@@ -1,0 +1,58 @@
+.wrapper {
+  padding-top: 30px;
+}
+
+body h3 {
+  margin-bottom: 25px;
+}
+
+.navbar-brand a {
+  color: #ffffff;
+}
+
+.form-wrapper,
+.table-wrapper {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.table-wrapper {
+  max-width: 800px;
+}
+
+.edit-link {
+  padding: 7px 17px;
+  font-size: 1.02rem;
+  line-height: normal;
+  border-radius: 0.2rem;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  margin-right: 10px;
+  position: relative;
+  top: 1px;
+  
+}
+
+.edit-link:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+.edit-link1 {
+  padding: 7px 10px;
+  font-size:1.02rem;
+  line-height: normal;
+  border-radius: 0.2rem;
+  color: #fff;
+  background-color: #DB3545;
+  border-color: #DB3545;
+  margin-left: 10px;
+  
+  position: relative;
+  top: 5px;
+}
+
+.edit-link1:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
